@@ -4,7 +4,7 @@ import { BiCodeCurly } from "react-icons/bi";
 const Sidebar = () => {
   return (
     <div
-      className="bg-gray-200 max-xl:hidden max-w-xs min-w-xs border-r border-gray-300"
+      className="bg-gray-200 max-xl:hidden max-w-xs min-w-xs w-full border-r border-gray-300"
       style={{ height: "calc(100vh - 3.5rem)" }}
     >
       <div className="border-b border-gray-300 p-5">HabboAPI Documentation</div>
